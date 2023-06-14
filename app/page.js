@@ -1,5 +1,3 @@
-import "../styles/global.css";
-
 import Image from "next/image";
 import Modal from "./components/modal";
 import Dropdown from "./components/Dropdown";
